@@ -10,5 +10,5 @@
 # We also need to minimize the number of times we access elements from the list.
 
 
-def locate_card(cards, number_query):
+def locate_card(cards, numb_query):
     pass
